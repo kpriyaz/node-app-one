@@ -1,0 +1,24 @@
+{
+  "name": "app-one",
+  "version": "1.0.0",
+  "description": "Complete NodeJS guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpriyaz/node-app-one.git"
+  },
+  "author": "Krishna Priya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpriyaz/node-app-one/issues"
+  },
+  "homepage": "https://github.com/kpriyaz/node-app-one#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
